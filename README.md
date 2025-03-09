@@ -77,5 +77,4 @@ Change apiUrl in RestApiClient.java to request a different API.
 Modify the request method (GET, POST, etc.) as needed.
 
 OUTPUT
-
-![Image](https://github.com/user-attachments/assets/827b3c5d-a906-41e2-bf7d-3b42936a7776)
+![Image](https://github.com/user-attachments/assets/a1db71a6-196b-45f9-961d-a9cf2fd46732)
